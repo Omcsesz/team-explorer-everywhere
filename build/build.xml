@@ -3,6 +3,7 @@
 	
 	Runs the other stages of the build in order.
 -->
+<!DOCTYPE xml>
 <project name="tee" basedir="." default="build">
 
 	<import file="${basedir}/build-1-config.xml"          />

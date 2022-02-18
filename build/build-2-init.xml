@@ -5,6 +5,7 @@
 	at run-time.  Pre-compile targets like code generation for license 
 	enforcement would go here.
 -->
+<!DOCTYPE xml>
 <project name="build-2-init" basedir="." default="build_2_init">
 
 	<!--

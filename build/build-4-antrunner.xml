@@ -5,6 +5,7 @@
 	are available).  This is done in a separate process because that's
 	the Eclipse convention and lets us pass exactly the properties we want.
 -->
+<!DOCTYPE xml>
 <project name="build-4-antrunner" basedir="." default="build_4_antrunner">
 
 	<import file="${basedir}/macros/pdemacros.xml" />
